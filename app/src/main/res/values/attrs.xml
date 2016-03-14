@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="icon_array">
+        <item>@mipmap/ic_ac_unit_black</item>
+        <item>@mipmap/ic_airport_shuttle_black</item>
+        <item>@mipmap/ic_all_inclusive_black</item>
+        <item>@mipmap/ic_beach_access_black</item>
+        <item>@mipmap/ic_casino_black</item>
+        <item>@mipmap/ic_child_care_black</item>
+        <item>@mipmap/ic_child_friendly_black</item>
+        <item>@mipmap/ic_free_breakfast_black</item>
+    </string-array>
+
+
+
+
+
+
+
+</resources>
